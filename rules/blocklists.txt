@@ -11405,6 +11405,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -11693,7 +11694,6 @@ adsixmedia.fr
 adsjqaobchetb.space
 adsjumbo.com
 adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
-adskape.ru
 adskeeper.co.uk
 adskeeper.com
 adsklick.de
@@ -12344,7 +12344,6 @@ advantagesblareseizure.com
 advantagesclotblend.com
 advantagesresponse.com
 advard.com
-advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -13104,7 +13103,6 @@ aff.carvertical.com
 aff.faircredit.cz
 aff.indirdik.com
 aff.jskyservices.com
-aff.kinkondemand.com
 aff.magneticjv.com
 aff.mclick.mobi
 aff.mobile-10.com
@@ -15915,7 +15913,6 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
-analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -21313,6 +21310,7 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -22933,7 +22931,6 @@ atech.ne.jp
 atecomprisedispel.com
 atedra.com
 atelicxerus.cfd
-atencion.banrural.com.gt
 atepcs.icu
 aterianbrisket.shop
 aterru.g2afse.com
@@ -27200,7 +27197,6 @@ bitsonthewire.com
 bitspush.io
 bitstarz.com
 bitstarz28.com
-bittenevenreasoning.com
 bitter-inevitable.pro
 bitterstrawberry.com
 bitterstupid.com
@@ -33146,7 +33142,6 @@ cdn.yoox.biz
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
@@ -33524,7 +33519,6 @@ cemaolocavmti.website
 cematuran.com
 cemca.andorwillow.com
 cemeteryfrogs.info
-cemeteryloinrespirator.com
 cemiocw.com
 cemvzlagirols.website
 cen.acspubs.org
@@ -39958,6 +39952,7 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -45614,6 +45609,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -50580,6 +50576,7 @@ dooloust.net
 doomhedge.com
 doomna.com
 doood.co
+dooods.pro
 dooosy.shop
 doorbawheats.qpon
 doorknockset.com
@@ -54372,6 +54369,7 @@ elmolkyqhjfwn.online
 eln.mybluehost.me
 eln3ax.com
 elnbz.qualitylogic.com
+elogecoptersabacot.cfd
 elogiado.info
 eloinerrameses.cyou
 elolpgsmmdndfir.com
@@ -61904,7 +61902,6 @@ frrhcvblgskvz.site
 frrkdiszpiclc.online
 frrne.guess.com
 frro.utn.edu.ar
-frrrnknuzff.com
 frs2c.com
 frser.manzorabagues.fr
 frshliv.shop
@@ -65399,7 +65396,6 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
-go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -72779,7 +72775,6 @@ hltgrgqeodrti.site
 hlufsqadxupgr.website
 hlumreexivler.space
 hluraiwoy.com
-hlvbnpwagpepas.com
 hlviet84.com
 hlxyidqacaivu.site
 hlygsp.modivo.ro
@@ -77277,7 +77272,6 @@ info.b2lead-marketing.com
 info.backbonemedia.com
 info.bankintelligence.fiserv.com
 info.banpronicaragua.com.ni
-info.banrural.com.gt
 info.base2s.com
 info.battelle.org
 info.bauerbuilt.com
@@ -91494,6 +91488,7 @@ load.stape.toptutors.dk
 load.stape.toskaspa.com
 load.stape.trekloeveren.dk
 load.stape.trygglaan.se
+load.stape.vanessaspeerb.com
 load.stape.veterinariapromove.com.br
 load.stape.vhgstore.com
 load.stape.viafinans.no
@@ -93440,7 +93435,6 @@ loving-link.com
 lovingdrop.pro
 lovingforever.pro
 lovinghosethus.com
-lovn.ru
 lovrsdate.com
 lowercases.com
 lowerthewatts.net
@@ -95620,7 +95614,6 @@ marketing.attunelive.com
 marketing.audibene.net
 marketing.austiner.com
 marketing.autopayplus.com
-marketing.autozonemecanicos.com
 marketing.avantage.nl
 marketing.aventel.nl
 marketing.aviationweek.com
@@ -106372,7 +106365,6 @@ neglectsquad.com
 negligence072925.shop
 negligpigged.cfd
 negocemouseeluckly.qpon
-negocio.banrural.com.gt
 negocio.site
 negusplicatelinks.cyou
 negxkj5ca.com
@@ -111823,7 +111815,6 @@ obgnfbrfvosbi.online
 obguj.wishgardenherbs.com
 obhtt.innosupps.com
 obhxvb.tmktools.ru
-obigre.ru
 obin.distinctrobin.com
 obiono.com
 obislame.ru
@@ -120029,7 +120020,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -129000,7 +128990,6 @@ removedidentification.com
 removedrehabilitation.com
 removemalwarevirus.com
 removeverizon.net
-remox.com
 remp-beam.golem.de
 remp-campaign.golem.de
 remp.dailymaverick.co.za
@@ -130371,7 +130360,6 @@ rmazxvjbpymsz.website
 rmb-trf.net
 rmbalnswelwcp.online
 rmbehm.junjewelry.com
-rmbn.ru
 rmcje.remedymeds.com
 rmclskudgnbgj.space
 rmd.device-api.indigitall.com
@@ -132739,7 +132727,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -133164,7 +133151,6 @@ s.schuback-parfuemerien.de
 s.schwabensolar.com
 s.scourtinerie.com
 s.scuolayogashanti.it
-s.sdx.ru
 s.seelenverwandter.de
 s.service.tiresplus.com
 s.sfxfunded.com
@@ -139005,7 +138991,6 @@ server.jrodolfogrouoficial.com.br
 server.julianaribeirofotografia.com
 server.julioandradeia.org
 server.juninhojetguaruja.com.br
-server.juniomoreto.com.br
 server.jussarahnaildesigner.com.br
 server.kajeasy.com
 server.kakazumassas.com.br
@@ -147553,7 +147538,6 @@ smetrics.prrs.com
 smetrics.pru.co.uk
 smetrics.pruadviser.co.uk
 smetrics.prudential-international.com
-smetrics.prudential.com
 smetrics.pshpgeorgia.com
 smetrics.publicissapient.com
 smetrics.publiclands.com
@@ -149722,7 +149706,6 @@ softcourier.com
 softdrinks.euvou.events
 softenedimmortalityprocedure.com
 softensdarkest.cfd
-softentears.com
 softestablishmentfill.com
 softfile.3g.qq.com
 softforestmeadow.com
@@ -150683,6 +150666,7 @@ sorrowful-control.pro
 sorrowfulchemical.com
 sorrowfulpsychology.com
 sorrowfultour.com
+sorrowfultrouble.com
 sorryfearknockout.com
 sortable-match.dotomi.com
 sortable.com
@@ -153383,6 +153367,7 @@ ss.pianetaferra.com
 ss.pielboutiquecr.com
 ss.piethein.dk
 ss.pillowdaddy.de
+ss.pimientonegro.com
 ss.pisuchytre.cz
 ss.pitaya.dk
 ss.pjfashionbd.com
@@ -154709,7 +154694,6 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -160403,7 +160387,6 @@ stape.minhaconstrucaofinanciada.com.br
 stape.minitrat.com.br
 stape.mirajpatacho.com
 stape.mirpurcamerazone.com
-stape.mirtv.com.br
 stape.missfanni.com.br
 stape.mkiautoparts.com.br
 stape.mma.bet.br
@@ -164819,7 +164802,6 @@ suhvoulwtaxfj.site
 suibianmaimaicom.com
 suicidalruse.com
 suidaohgl.com
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -175087,7 +175069,6 @@ tracking.business.comcast.com
 tracking.business.yell.com
 tracking.buygoods.com
 tracking.buyhatke.com
-tracking.bv.com
 tracking.byggindustrin.se
 tracking.c.mercedes-benz.co.in
 tracking.c.mercedes-benz.com.cn
@@ -181160,6 +181141,7 @@ userreplay.com
 userreplay.net
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -187369,6 +187351,7 @@ wharvesrefall.com
 whataboutnews.com
 whatcounts.com
 whatcounts.evergage.com
+whatdidheseehe.com
 whatgift.to
 whatif.de.adobe.com
 whatif.fr.adobe.com
@@ -190818,7 +190801,6 @@ www.srmdata-us.com
 www.srmdata.com
 www.ss.amdsolutions.dk
 www.ss.closette.online
-www.ss.freesnaps.com
 www.ss.skabsdesign.dk
 www.ss.sportyil.co.il
 www.ss.yardenrasa.com
@@ -195412,7 +195394,6 @@ yzaxye.animal-valley.com
 yzazgq.buffalo.de
 yzccdzhpooakp.store
 yzcfva.healthyplanetcanada.com
-yzcoc.com
 yzcpqa.gumtree.com
 yzdkhftbkynua.site
 yzdljh.clarins.ca
